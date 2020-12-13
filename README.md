@@ -7,7 +7,7 @@ In this Bitcamp, Bit Project partners with Slack to teach students how to make u
 
 A week by week guidline of the skills and topics covered in each individual week. The format for this Bitcamp includes a livestream, hosted by mentors and Slack engineers, and homework, assigned tasks through a Github Learning Lab.
 
-#### **Week 1: Getting Started with Slack API**
+### **Week 1: Getting Started with Slack API**
 ***
 
 
@@ -20,7 +20,7 @@ In the Livestream Portion of Week 1, students will be introduced to the basics o
 
 In the Homework Portion of Week 1, students will continue to advance the skills taught during the livestream through a guided Github Learning Lab. Students will browse the Slack API documentation, experiment with events and listeners, assign permissions/scopes, and further learn response functions like message() and say(). Doing so, they will have a final assignment of creating a similar slack app (to the livestream) that responds to an event rather than a message.
 
-#### **Week 2: Introduction to Shortcuts, Modals, and BlockKit**
+### **Week 2: Introduction to Shortcuts, Modals, and BlockKit**
 
 ***
 
@@ -32,7 +32,7 @@ In the Livestream Portion of Week 2, students will work with new topics like sho
 
 In the Homework Portion of Week 2, students will continue to advance the skills taught during the livestream through a guided Github Learning Lab. Students will focus on BlockKit (found [here](https://api.slack.com/block-kit "here")) and explore the UI framework by creating more complicated messages that change and work with user input. As well, students will strengthen their understanding of modals by experimenting with different modal blocks and views. At the end of the week, students will be tasked to create a simple Slack App that uses the skills learned in week 2 (shortcuts, modals, and BlockKit) in a creative way to recieve and respond to user input.
 
-#### **Week 3: Integration with Google Translate API**
+### **Week 3: Integration with Google Translate API**
 
 ***
 
@@ -44,7 +44,7 @@ In the Homework Portion of Week 2, students will continue to advance the skills 
 
 --
 
-#### **Week 4: Events and Reminders with Google Calendar API**
+### **Week 4: Events and Reminders with Google Calendar API**
 
 ***
 
