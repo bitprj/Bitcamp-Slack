@@ -56,7 +56,7 @@ In the Homework Portion of Week 2, students will continue to advance the skills 
 
 --
 
-Want to apply? Go to: [bitproject.org](http://bitproject.org "bitproject.org") to learn more.
+Want to apply? Go to [bitproject.org](http://bitproject.org "bitproject.org") to learn more.
 
 
 
