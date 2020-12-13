@@ -1,3 +1,16 @@
+const { App } = require('@slack/bolt');
+const { v2: { Translate } } = require('@google-cloud/translate');
+
+const { config } = require('dotenv');
+
+config();
+const app = new App({
+  token: process.env.SLACK_BOT_TOKEN,
+  signingSecret: process.env.SLACK_SIGNING_SECRET,
+});
+
+const translator = new Translate();
+
 /* Listening for Reaction Emojis */
 // Your app *must* be in the channel of the message
 // Event subscription: reaction_added
