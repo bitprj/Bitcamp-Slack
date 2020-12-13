@@ -1,4 +1,4 @@
-# **Week 1: Getting Started with the Slack API**
+# **Week 2: Introduction to Shortcuts, Modals, and BlockKit**
 
 ### Livestream
 
